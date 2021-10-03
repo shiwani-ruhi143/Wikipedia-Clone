@@ -1,0 +1,9 @@
+body{
+    background: white;
+}
+img{
+    float: right;
+    height: 400px;
+    border: 1px solid;
+    padding: 0.5%;
+}
